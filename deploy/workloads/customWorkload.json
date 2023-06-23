@@ -1,0 +1,9 @@
+{
+        "name": "customWorkload",
+        "base": "br-base.json",
+        "overlay": "overlay",
+        "run": "run.sh",
+        "testing": {
+            "refDir": "refOutput"
+        }
+}
